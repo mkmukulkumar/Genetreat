@@ -1,2 +1,2 @@
 # Genetreat
-React Native App which suggest type of cancer and treatments for cancer.
+React Native App which can assist doctor in taking steps to treat cancer.
