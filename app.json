@@ -1,15 +1,18 @@
 {
   "expo": {
-    "name": "Blank Template",
+    "name": "Genetreat",
     "slug": "btp",
     "privacy": "public",
-    "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
       "android",
       "web"
     ],
-    "version": "1.0.0",
+    "android": {
+      "package": "com.iitj.genetreat",
+      "versionCode": 2
+    },
+    "version": "1.2.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
